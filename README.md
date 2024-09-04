@@ -45,7 +45,7 @@
 
 9. Start the application using Nodemon:
     ```bash
-    nodemon index.js 
+    npm start or node app.js
     ```
 
 10. Start the frontend application: 
