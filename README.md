@@ -1,6 +1,6 @@
-#Demonstration
-## Embedded Video
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=SuXNCh-_r68" frameborder="0" allowfullscreen></iframe>
+
+## Demonstration Video
+https://www.youtube.com/watch?v=SuXNCh-_r68
 
 # Requirements
 * Node.js
