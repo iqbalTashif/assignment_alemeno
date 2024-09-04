@@ -7,7 +7,7 @@
 
 1. Clone this repository:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/iqbalTashif/assignment_alemeno.git
     ```
 
 2. Navigate to the `frontend` directory:
